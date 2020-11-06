@@ -1,0 +1,29 @@
+{
+  "name": "gestor",
+  "version": "1.0.0",
+  "description": "Você precisará ter apenas o [NodeJS](https://nodejs.org) instalado na sua máquina, e após isso, clonar este repositório:\r ```sh\r   $ git clone ....\r ```",
+  "main": "index.js",
+  "dependencies": {
+    "@expo/vector-icons": "^10.2.1",
+    "@react-navigation/bottom-tabs": "^5.10.6",
+    "expo": "^39.0.4",
+    "express": "^4.17.1",
+    "knex": "^0.21.12",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaianSores/gestor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaianSores/gestor/issues"
+  },
+  "homepage": "https://github.com/RaianSores/gestor#readme"
+}
